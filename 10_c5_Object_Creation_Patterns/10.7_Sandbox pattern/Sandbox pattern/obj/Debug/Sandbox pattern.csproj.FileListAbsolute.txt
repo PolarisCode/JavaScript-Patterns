@@ -1,0 +1,12 @@
+c:\users\ialiyev\documents\visual studio 2013\Projects\Sandbox pattern\Sandbox pattern\bin\Sandbox pattern.dll.config
+c:\users\ialiyev\documents\visual studio 2013\Projects\Sandbox pattern\Sandbox pattern\bin\Sandbox pattern.dll
+c:\users\ialiyev\documents\visual studio 2013\Projects\Sandbox pattern\Sandbox pattern\bin\Sandbox pattern.pdb
+c:\users\ialiyev\documents\visual studio 2013\Projects\Sandbox pattern\Sandbox pattern\obj\Debug\Sandbox pattern.csprojResolveAssemblyReference.cache
+c:\users\ialiyev\documents\visual studio 2013\Projects\Sandbox pattern\Sandbox pattern\obj\Debug\Sandbox pattern.dll
+c:\users\ialiyev\documents\visual studio 2013\Projects\Sandbox pattern\Sandbox pattern\obj\Debug\Sandbox pattern.pdb
+D:\Projects\JavaScript\Source\10_c5\10.7_Sandbox pattern\Sandbox pattern\bin\Sandbox pattern.dll.config
+D:\Projects\JavaScript\Source\10_c5\10.7_Sandbox pattern\Sandbox pattern\bin\Sandbox pattern.dll
+D:\Projects\JavaScript\Source\10_c5\10.7_Sandbox pattern\Sandbox pattern\bin\Sandbox pattern.pdb
+D:\Projects\JavaScript\Source\10_c5\10.7_Sandbox pattern\Sandbox pattern\obj\Debug\Sandbox pattern.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript\Source\10_c5\10.7_Sandbox pattern\Sandbox pattern\obj\Debug\Sandbox pattern.dll
+D:\Projects\JavaScript\Source\10_c5\10.7_Sandbox pattern\Sandbox pattern\obj\Debug\Sandbox pattern.pdb
